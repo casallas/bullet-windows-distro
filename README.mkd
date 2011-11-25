@@ -7,11 +7,25 @@ Build Information
 =================
 * Visual Studio 9 (2008)
 
-* Bullet [2.78](http://bullet.googlecode.com/files/bullet-2.78.zip)
+* Bullet [2.79](http://code.google.com/p/bullet/downloads/detail?name=bullet-2.79-rev2440.zip&can=2&q=)
 
 * Debug and Release builds.
 
 * 32-bit
+
+* Single precision
+
+### CMake Build Options
+
+* Only "basic" libs (no extra libs)
+
+* Use GLUT
+
+* Use Graphical Benchmark
+
+* Use MSVC Fast Floatingpoint
+
+* Use MSVC See
 
 Disclaimer
 ==========
