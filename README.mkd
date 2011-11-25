@@ -1,0 +1,18 @@
+Bullet Physics Windows Distribution
+===================================
+Built by [Juan Sebastian Casallas](casallas@iastate.edu)
+Upstream project page: [Bullet Physics](http://bulletphysics.org)
+
+Build Information
+=================
+* Visual Studio 9 (2008)
+
+* Bullet [2.78](http://bullet.googlecode.com/files/bullet-2.78.zip)
+
+* Debug and Release builds.
+
+* 32-bit
+
+Disclaimer
+==========
+The "distributor" by no means affiliated  with Bullet Physics. For details about licensing, read the file BulletLicense.txt
